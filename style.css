@@ -1,0 +1,19 @@
+/* COLORS */
+
+.blue {background-color: #1389b2;}
+.teal {background-color: #0cd6a1;}
+.yellow {background-color: #ffd166;}
+.red {background-color: #f0466f;}
+
+
+body {
+    background-color: #083b4c !important;
+}
+
+.box {
+    width: 100px;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
